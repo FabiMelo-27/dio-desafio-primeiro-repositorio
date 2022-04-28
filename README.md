@@ -5,5 +5,5 @@ Bootcamp GFT Start Woman Java
 
 
 
-![](certificado.png)
+![](C:\Users\fgdem\Pictures\gft.png)
 
